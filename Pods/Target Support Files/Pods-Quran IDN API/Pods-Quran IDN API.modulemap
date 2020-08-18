@@ -1,0 +1,6 @@
+framework module Pods_Quran_IDN_API {
+  umbrella header "Pods-Quran IDN API-umbrella.h"
+
+  export *
+  module * { export * }
+}
